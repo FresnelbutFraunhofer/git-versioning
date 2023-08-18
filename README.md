@@ -9,6 +9,11 @@
 - Apply feature-feature pada developer sebelum dilakukan pada master 
 - Jika benar-benar selesai, merge developer to master
 
+## MINUMAN
+- Es Teh
+- Kopi
+- Susu
+
 
 
 
