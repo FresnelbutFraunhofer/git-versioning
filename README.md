@@ -14,7 +14,3 @@
 - Kopi
 - Susu
 
-## INI APA?
-- Bapak
-- Ibu
-- Yono
