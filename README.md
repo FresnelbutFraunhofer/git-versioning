@@ -12,5 +12,5 @@
 ## MINUMAN
 - Es Teh
 - Kopi
-- Susu
+- [Susu](https://www.youtube.com/)
 
